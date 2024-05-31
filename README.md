@@ -91,7 +91,7 @@ The model was evaluated using the following metrics:
 - ROC-AUC
 
 ## Results
-The Random Forest Regressor achieved an accuracy of 78% on the test set. Detailed results and evaluation metrics can be found in the `results/` directory.
+The Random Forest Regressor achieved an accuracy of 78% on the test set. Detailed results and evaluation metrics can be found in the `Jupyter notebook/` directory.
 
 ## Conclusion
 This project demonstrates the application of the Random Forest Regressor to predict survival on the Titanic. It highlights the importance of feature selection, data preprocessing, and model evaluation in building an effective predictive model.
